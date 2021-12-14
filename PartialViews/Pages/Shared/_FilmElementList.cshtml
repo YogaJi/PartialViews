@@ -1,0 +1,12 @@
+﻿@model IList<PartialViews.Models.Films>
+@foreach (PartialViews.Models.Films Film in Model)
+{
+    <section>
+        <header>
+            <h2>@Film.Title</h2>
+        </header>
+            <p><b>@Film.Duration</b></p>
+            <p>@Film.Description</p>
+
+    </section>
+}

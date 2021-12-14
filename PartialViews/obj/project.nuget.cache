@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ssjsfhPvrkZ1i1+mRZ7dc+GHd+r1L8xGVk5UQX0KfLrFR8Tka5AL6QwisEx75nVt1Ef9ac2SnuXBJvwgihcLUg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL\\source\\repos\\PartialViews\\PartialViews\\PartialViews.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

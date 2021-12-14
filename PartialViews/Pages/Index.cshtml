@@ -1,0 +1,11 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Latest Movies</h1>
+    <p>Here is the list of the latest movies.</p>
+</div>
+<partial name="_FilmElementList" for="Film" />
